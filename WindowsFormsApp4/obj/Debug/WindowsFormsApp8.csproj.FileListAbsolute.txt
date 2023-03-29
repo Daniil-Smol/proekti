@@ -1,0 +1,10 @@
+C:\Users\Студент\ИСП11-221 Кештов Данияль\c#\calculator\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\Студент\ИСП11-221 Кештов Данияль\c#\calculator\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\Студент\ИСП11-221 Кештов Данияль\c#\calculator\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\Студент\ИСП11-221 Кештов Данияль\c#\calculator\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+C:\Users\Студент\ИСП11-221 Кештов Данияль\c#\calculator\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.form1.resources
+C:\Users\Студент\ИСП11-221 Кештов Данияль\c#\calculator\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\Студент\ИСП11-221 Кештов Данияль\c#\calculator\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\Студент\ИСП11-221 Кештов Данияль\c#\calculator\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\Студент\ИСП11-221 Кештов Данияль\c#\calculator\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\Студент\ИСП11-221 Кештов Данияль\c#\calculator\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
